@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<title>Willkommen auf @domain_name@ - Hosting by hostfactory.ch</title>
+		<meta name="robots" content="noindex" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<meta name="theme-color" content="#c60a0a" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="https://www.hostfactory.ch/extensions/skeleton/data/skeleton.js" type="text/javascript"></script>
+		<link href='https://fonts.googleapis.com/css?family=Montserrat:500,600,700,800' rel='stylesheet' type='text/css'>
+		<link href="https://www.hostfactory.ch/extensions/skeleton/data/style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div>
+			<header>
+				<div class="center">
+					<img src="https://www.hostfactory.ch/extensions/skeleton/data/images/hostfactory-logo.svg" alt="Hostfactory Logo"/>
+					<h1>Dies ist das neue Webhosting der Website <a href="#" class="domain-name">@domain_name@</a></h1>
+				</div>
+			</header>
+			<div id="line"></div>
+			<section id="info">
+				<div class="center">
+					<h2>Diese Testseite nicht mehr anzeigen?</h2>
+					<p>Um diese Standard-Seite nicht mehr zu sehen, löschen Sie einfach die index.php Datei entweder über FTP oder direkt im Filemanager im Kundencenter unter <a href="https://my.hostfactory.ch" rel="nofollow">my.hostfactory.ch</a>. Sollten Sie weitere Hilfe bedürfen, kontaktieren Sie bitte unseren <a href="https://www.hostfactory.ch/support" rel="nofollow">Support</a>.</p>
+					<a class="button" href="https://my.hostfactory.ch" rel="nofollow">Einloggen</a>
+				</div>
+			</section>	
+		</div>
+		<section id="ads">
+			<div class="center">
+				<img src="https://www.hostfactory.ch/extensions/skeleton/data/images/webhosting-angebot-neu.png" alt="Das Webhosting Angebot von Hostfactory"/>
+				<div class="multicol">
+					<div class="col first">
+						<h3>Hostfactory Webhosting</h3>
+						<p>Das Hostfactory <a href="https://www.hostfactory.ch/webhosting/" rel="nofollow">Webhosting</a> beeinhaltet alle für Ihre Homepage nötigen Service wie PHP, ASP.NET, FTP, MySQL, MSSQL, SSL, SSH, DNS-Verwaltung sowie einen umfangreichen E-Mail-Dienst. </p><p>Unsere schweizer Server-Infrastruktur des <a href="https://www.hostfactory.ch/webhosting/" rel="nofollow">Hostings</a> stellt dafür modernste SSD-Festplatten, Stromversorgung und Internet-Anbindung sowie ein komplett redundantes System für den Betrieb bereit.</p>
+					</div>
+					<div class="col last">
+						<h3>Weitere Dienstleistungen</h3>
+						<p>Neben unsere Webhosting bieten Wir Ihnen zudem eine umfangreiche Palette weiterer Dienstleistungen an als ideale ergänzung:</p>
+						<ul>
+							<li><a href="https://www.hostfactory.ch/webseite-erstellen/" rel="nofollow">Sitebuilder</a> (Erstelle deine eigene Homepage)</li>
+							<li><a href="https://www.hostfactory.ch/domain-registrieren/" rel="nofollow">Domains</a> (.ch, .de, .com)</li>
+							<li><a href="https://www.hostfactory.ch/vps/" rel="nofollow">VPS</a> (Eigene Server mit Windows oder Linux)</li>
+							<li><a href="https://www.hostfactory.ch/webhosting/ssl-zertifikate/" rel="nofollow">SSL-Zertifikate</a> (für Private, Firmen und Shops)</li>
+						</ul>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</section>		
+		<footer>
+			<div class="center">
+				<ul>
+					<li><a href="https://www.hostfactory.ch/hostfactory/kontakt/" class="first" rel="nofollow">Kontakt</a></li>
+					<li><a href="https://www.hostfactory.ch/hostfactory/agb/" rel="nofollow">AGB</a></li>
+					<li><a href="https://www.hostfactory.ch/hostfactory/ueber-hostfactory/" class="last" rel="nofollow">Über uns</a></li>
+				</ul>
+				<a class="link" href="https://www.hostfactory.ch" rel="nofollow">hostfactory.ch</a>
+				<div class="clear"></div>
+			</div>
+		</footer>
+	</body>
+</html> 
